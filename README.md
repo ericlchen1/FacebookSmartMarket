@@ -1,6 +1,9 @@
-### See our video tutorial here:
+# FacebookSmartMarket
+A web extension which parses descriptions of Facebook Marketplace items to show the true price of items
 
-https://youtu.be/nvm3c6ilcN8
+# Directions to run
+localhost:8080
+>> npm run build
 
-### Check out the write-up here:
-https://anobjectisa.com/?p=135
+Production
+>> npm run build:prod
