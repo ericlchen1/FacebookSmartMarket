@@ -1,2 +1,6 @@
-# FacebookSmartMarket
-A web extension which parses descriptions of Facebook Marketplace items to show the true price of items
+### See our video tutorial here:
+
+https://youtu.be/nvm3c6ilcN8
+
+### Check out the write-up here:
+https://anobjectisa.com/?p=135
